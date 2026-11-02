@@ -20,3 +20,7 @@ Install dependencies using pip install -r requirements.txt
 
 ## API Configuration
 Configure your Groq API key securely using Google Colab Secrets. Never upload API keys to GitHub.
+
+## Project Notebook
+
+[Open Intelligent RAG-Based Chatbot Notebook](Intelligent_RAG_Based_Chatbot%20%281%29.ipynb)
